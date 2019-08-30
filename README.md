@@ -1,5 +1,7 @@
 # mango-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aniltako/mango-api.svg)](https://greenkeeper.io/)
+
 **Clone this project.**<br/>
 `cd \path\to\project`<br/>
 
